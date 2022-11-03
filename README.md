@@ -1,2 +1,2 @@
 # EqVolc
-MATLAB code for analysing statistical relationships between earthquakes and volcanic eruptions
+MATLAB scripts for analysing statistical relationships between earthquakes and volcanic eruptions
